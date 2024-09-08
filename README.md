@@ -1,2 +1,3 @@
-# Balistics
-Mini game / Physical model
+# Balistics (C++/Qt)
+Mini game / Physical model;
+
